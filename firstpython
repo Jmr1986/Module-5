@@ -1,5 +1,0 @@
-print("Primre archivo")
-import pandas as pn
-df = pn.read_csv(r"c://....")
-type(archivo)
-plot.scatter([jdlksjldsjflk])
